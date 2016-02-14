@@ -1,2 +1,2 @@
 #Angular 2 Tutorial
-tour of heroes
+tour of heroes changed
